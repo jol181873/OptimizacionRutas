@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: com.lynden:GMapsFX:2.0.8-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lynden/GMapsFX/2.0.8-SNAPSHOT/GMapsFX-2.0.8-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lynden/GMapsFX/2.0.8-SNAPSHOT/GMapsFX-2.0.8-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/lynden/GMapsFX/2.0.8-SNAPSHOT/GMapsFX-2.0.8-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/or-tools_Ubuntu-16.04-64bit_v5.0.3919/lib/protobuf.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.google.ortools">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/or-tools_Ubuntu-16.04-64bit_v5.0.3919/lib/com.google.ortools.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
